@@ -1,0 +1,34 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"Color Highlighter",
+		"Colorsublime",
+		"Djaneiro",
+		"Emmet",
+		"GitGutter",
+		"JSHint Gutter",
+		"JSON Reindent",
+		"Language - French - Français",
+		"MarkdownPreview",
+		"Package Control",
+		"requirementstxt",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-contrib-sublime-syntax",
+		"SublimeLinter-csslint",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jshint",
+		"SublimeLinter-pep8",
+		"SublimeLinter-pyflakes",
+		"Theme - Brogrammer",
+		"Theme - Hero",
+		"Vuejs Complete Package"
+	]
+}
